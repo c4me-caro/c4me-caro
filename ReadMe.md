@@ -10,7 +10,7 @@
 <br>
 
 <p align="left">✨ Creating bugs since 2023.<br>👯 I’m looking to collaborate on `OSS Projects`.<br>💬 Ask me about GitHub :octocat:.<br>🎲 Fun fact: I like maths, but I prefer philosophy.</p>
-<br><br><br><br>
+<br>
 
 ## 👨‍💻 What i use to code:
 
@@ -19,11 +19,12 @@
     <img src="https://skillicons.dev/icons?i=anaconda,arch,arduino,bash,deno,discord,django,flask,golang,docker,eclipse,heroku,latex,linux,mysql,neovim,php,mongo,postgresql,nodejs,postman,python,sqlite,typescript,vuejs,sass,vscode,gcp&perline=14" />
   </a>
 </p>
-<br><br>
+<br>
 
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
+<br>
 
 <p align="center">I appreciate you stopping by my GitHub profile! Hope you find something interesting here. 😃</p> 
