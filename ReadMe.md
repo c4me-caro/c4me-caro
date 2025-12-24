@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,c,go,latex,flask,deno,postgresql,mysql,mongodb,tailwindcss,linux,bash,anaconda,docker,gcp,kali" />
+    <img src="https://skillicons.dev/icons?i=python,ts,c,go,latex,flask,deno,postgresql,mysql,mongodb,tailwindcss,linux,bash,anaconda,docker,gcp,kali,arch,arcduino&perline=14" />
   </a>
 </p>
 <br>
