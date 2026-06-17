@@ -4,20 +4,15 @@
 </p> 
 	
 ## 💫 About Me:
-
 <picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhpcHc0cnV4cTBta2lsY2ExZ3loOWZ2N3RwMTh5M2U3cDdjZDJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HE0Sw49YY8vpS/giphy.gif" width = 225px></picture>
 <br>
 
-<p align="left">✨ Creating bugs since 2023.<br>👯 I’m looking to collaborate on `OSS Projects`.<br>💬 Ask me about GitHub :octocat:.<br>🎲 Fun fact: I like maths, but I prefer philosophy.</p>
+<p align="left">✨ Creating bugs since 2023.<br>👯 I’m looking to collaborate on `OSS Projects`.<br>💬 Open to discuss tech and beyond.<br>
+🌱 Learning SOC and Blue Team.</p>
 <br>
 
 ## 👨‍💻 What i use to code:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,c,go,latex,flask,deno,postgresql,mysql,mongodb,tailwindcss,linux,bash,anaconda,docker,gcp,kali,arch,arcduino&perline=14" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c4me-caro&hide_title=true&layout=compact&theme=transparent&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## ✍️ Random Dev Quote
